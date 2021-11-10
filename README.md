@@ -34,4 +34,4 @@
   
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Geovani Xavier](https://img.shields.io/badge/-Geovani Xavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-xavier/)](https://www.linkedin.com/in/geovani-xavier/)
+[![Linkedin: Geovani Xavier](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-xavier/)](https://www.linkedin.com/in/geovani-xavier/)
