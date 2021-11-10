@@ -1,6 +1,6 @@
-<h3> :man: &nbsp;About Me </h3>
+<h3> &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** no <a href="https://www.ucsal.br/">UCSAL</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor de Sistemas**
 - 🌱 &nbsp; Aprendendo mais sobre **Java, Spring / SpringBoot, React**.
