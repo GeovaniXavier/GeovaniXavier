@@ -16,7 +16,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PostgreSql](https://camo.githubusercontent.com/2f13988552b7ae81484bb9f4003357f3b3fc8c2043171d531d7e08b51b6eb641/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c)
 
 **DevOps**
 
