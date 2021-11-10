@@ -1,4 +1,4 @@
-<h3> :woman: &nbsp;About Me </h3>
+<h3> :man: &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** no <a href="https://www.ucsal.br/">UCSAL</a>.
@@ -22,6 +22,6 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<h3> :earth_americas: &nbsp;🌎 Where to find me: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Geovani Xavier](https://img.shields.io/badge/-GeovaniXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-xavier/)](https://www.linkedin.com/in/geovani-xavier/)
