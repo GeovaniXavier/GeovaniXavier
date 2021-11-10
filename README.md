@@ -1,9 +1,9 @@
 <h3> &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** no <a href="https://www.ucsal.br/">UCSAL</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor de Sistemas**
-- 🌱 &nbsp; Aprendendo mais sobre **Java, Spring / SpringBoot, React**.
+- 🎓 &nbsp; Studying **Systems Analysis and Development** at <a href="https://www.ucsal.br/">UCSAL</a>.
+- 💼 &nbsp; Working as **Software Developer**
+- 🌱 &nbsp; Learning more about **Java, Spring / SpringBoot, React**.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
