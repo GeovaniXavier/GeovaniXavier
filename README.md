@@ -1,4 +1,4 @@
-<h3> &nbsp;About Me </h3>
+<h3> &nbsp;Hi, I'm Geovani Xavier </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Systems Analysis and Development** at <a href="https://www.ucsal.br/">UCSAL</a>.
