@@ -21,7 +21,8 @@
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  	
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Geovani Xavier](https://img.shields.io/badge/-GeovaniXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-xavier/)](https://www.linkedin.com/in/geovani-xavier/)
