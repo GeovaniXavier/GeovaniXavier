@@ -26,3 +26,9 @@
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Geovani Xavier](https://img.shields.io/badge/-GeovaniXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-xavier/)](https://www.linkedin.com/in/geovani-xavier/)
+
+<div align="center">
+  <a href="https://github.com/GeovaniXavier">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanixavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanixavier&layout=compact&langs_count=7&theme=dark"/>
+</div>
