@@ -5,7 +5,7 @@
 - 💼 &nbsp; Trabalhando como **Desenvolvedor de Sistemas**
 - 🌱 &nbsp; Aprendendo mais sobre **Java, Spring / SpringBoot, React**.
 
-<h3> :rocket: &nbsp;🚀 My Development Stack </h3>
+<h3> :rocket: &nbsp;My Development Stack </h3>
 
 **Application and Data**
 
