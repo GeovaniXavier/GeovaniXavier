@@ -9,7 +9,8 @@
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
 **Application and Data**
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
 <img align="center" alt="Spring" height="20" width="75" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396">
 <img align="center" alt="Spring" height="20" width="75" src="https://camo.githubusercontent.com/be95e40b73b295d5a020730d3c0adcce5906cf4d5fd2c6d8e523310f8414094c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e67253230426f6f742d3333333333333f7374796c653d666c6174266c6f676f3d737072696e67626f6f74">
 <img align="center" alt="Spring" height="20" width="75" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
@@ -19,6 +20,7 @@
 <img align="center" alt="Spring" height="20" width="75" src="https://camo.githubusercontent.com/2f13988552b7ae81484bb9f4003357f3b3fc8c2043171d531d7e08b51b6eb641/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c">
 <img align="center" alt="Spring" height="20" width="75" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
+
 **DevOps**
 <img align="center" alt="AWS" height="30" width="40" src="https://simpleicons.org/icons/amazonaws.svg">
 ![GitHub](https://camo.githubusercontent.com/544426317a6c6226b7f6b3367232378ea367aa5001a41da4f302a77f9959909f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562)
