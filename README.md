@@ -40,7 +40,7 @@
 </div>
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://www.shareicon.net/data/128x128/2015/09/03/95347_java_512x512.png">
+  <img align="center" alt="Java" height="30" width="40" src="https://static.vecteezy.com/system/resources/previews/007/604/678/large_2x/java-icon-design-illustration-vector.jpg">
   <img align="center" alt="Spring" height="30" width="40" src="https://simpleicons.org/icons/springboot.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://simpleicons.org/icons/javascript.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://simpleicons.org/icons/html5.svg">
