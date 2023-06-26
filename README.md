@@ -11,7 +11,7 @@
 **Application and Data**
 
 <div style="display: inline_block">
-<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+<img align="center" alt="Java" height="30" width="83" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
 <img align="center" alt="Spring" height="20" width="83" src="https://camo.githubusercontent.com/be95e40b73b295d5a020730d3c0adcce5906cf4d5fd2c6d8e523310f8414094c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e67253230426f6f742d3333333333333f7374796c653d666c6174266c6f676f3d737072696e67626f6f74">
 <img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
 <img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
