@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Distributed Software Architecture** at <a href="https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Arquitetura-de-Software-Distribuido.aspx">Pontifícia Universidade Católica de Minas Gerais</a>.
 - 💼 &nbsp; Working as **Software Developer**
-- 🌱 &nbsp; Learning more about **Java, SpringBoot, Angular, AWS Cloud**.
+- 👨‍💻 &nbsp; Learning more about **Java, SpringBoot, Angular, AWS Cloud**.
 - ☁️ &nbsp; Certified **AWS Cloud Practitioner, AWS Solutions Architect - Associate, AWS Developer - Associate**.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
