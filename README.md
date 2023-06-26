@@ -19,7 +19,7 @@
   ![PostgreSql](https://camo.githubusercontent.com/2f13988552b7ae81484bb9f4003357f3b3fc8c2043171d531d7e08b51b6eb641/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c)
 
 **DevOps**
-<img align="center" alt="AWS" height="20" width="93" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img align="center" alt="AWS" height="20" width="93" src="https://www.computerconsulting.com.br/wp-content/uploads/2020/03/aws-logo.png">
 ![GitHub](https://camo.githubusercontent.com/544426317a6c6226b7f6b3367232378ea367aa5001a41da4f302a77f9959909f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
