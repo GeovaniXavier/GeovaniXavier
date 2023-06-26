@@ -14,7 +14,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Angular](https://camo.githubusercontent.com/a799a0de9a064f1d6b1f455c88aaa6a835b374050e47e85fd378ae1e928af62f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416e67756c617226636f6c6f723d444430303331266c6f676f3d416e67756c6172266c6f676f436f6c6f723d464646464646266c6162656c3d)
+  ![Angular](https://img.shields.io/github/gist/stars/:gistId)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSql](https://camo.githubusercontent.com/2f13988552b7ae81484bb9f4003357f3b3fc8c2043171d531d7e08b51b6eb641/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c)
 
