@@ -40,7 +40,7 @@
 </div>
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://static.vecteezy.com/system/resources/previews/007/604/678/large_2x/java-icon-design-illustration-vector.jpg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1243/1243457.png?w=1380&t=st=1687751278~exp=1687751878~hmac=73efd4696bf96b36dfadb2b5eafb746fb77b5866b654dd484e1e4f23c525353b">
   <img align="center" alt="Spring" height="30" width="40" src="https://simpleicons.org/icons/springboot.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://simpleicons.org/icons/javascript.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://simpleicons.org/icons/html5.svg">
