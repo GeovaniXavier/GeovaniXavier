@@ -22,10 +22,11 @@
 </div><br/>
 
 **DevOps**
-<img align="center" alt="AWS" height="30" width="40" src="https://simpleicons.org/icons/amazonaws.svg">
+<div style="display: inline_block">
+<img align="center" alt="Spring" height="20" width="75" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 ![GitHub](https://camo.githubusercontent.com/544426317a6c6226b7f6b3367232378ea367aa5001a41da4f302a77f9959909f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
+</div><br/>
   
   	
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
