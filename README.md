@@ -1,7 +1,7 @@
 <h3> &nbsp;Hi, I'm Geovani Xavier </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying **Distributed Software Architecture** at <a href="[https://www.ucsal.br/](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Arquitetura-de-Software-Distribuido.aspx)">PUC</a>.
+- 🎓 &nbsp; Studying **Distributed Software Architecture** at <a href="[https://www.ucsal.br/](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Arquitetura-de-Software-Distribuido.aspx)/">PUC</a>.
 - 💼 &nbsp; Working as **Software Developer**
 - 🌱 &nbsp; Learning more about **Java, Spring / SpringBoot, React**.
 
