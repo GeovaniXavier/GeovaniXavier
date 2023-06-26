@@ -10,14 +10,14 @@
 
 **Application and Data**
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Spring Boot](https://camo.githubusercontent.com/be95e40b73b295d5a020730d3c0adcce5906cf4d5fd2c6d8e523310f8414094c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e67253230426f6f742d3333333333333f7374796c653d666c6174266c6f676f3d737072696e67626f6f74)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  <img align="center" alt="AWS" height="30" width="40" src="https://juststickers.in/wp-content/uploads/2017/11/angular-original-badge.png">
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSql](https://camo.githubusercontent.com/2f13988552b7ae81484bb9f4003357f3b3fc8c2043171d531d7e08b51b6eb641/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c)
+<img align="center" alt="Spring" height="20" width="85" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396">
+<img align="center" alt="Spring" height="20" width="85" src="https://camo.githubusercontent.com/be95e40b73b295d5a020730d3c0adcce5906cf4d5fd2c6d8e523310f8414094c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e67253230426f6f742d3333333333333f7374796c653d666c6174266c6f676f3d737072696e67626f6f74">
+<img align="center" alt="Spring" height="20" width="85" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+<img align="center" alt="Spring" height="20" width="85" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
+<img align="center" alt="Spring" height="20" width="85" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
+<img align="center" alt="Spring" height="20" width="85" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
+<img align="center" alt="Spring" height="20" width="85" src="https://camo.githubusercontent.com/2f13988552b7ae81484bb9f4003357f3b3fc8c2043171d531d7e08b51b6eb641/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c">
+<img align="center" alt="Spring" height="20" width="85" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
 **DevOps**
 <img align="center" alt="AWS" height="30" width="40" src="https://simpleicons.org/icons/amazonaws.svg">
