@@ -12,20 +12,20 @@
 
 <div style="display: inline_block">
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
-<img align="center" alt="Spring" height="20" width="80" src="https://camo.githubusercontent.com/be95e40b73b295d5a020730d3c0adcce5906cf4d5fd2c6d8e523310f8414094c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e67253230426f6f742d3333333333333f7374796c653d666c6174266c6f676f3d737072696e67626f6f74">
-<img align="center" alt="Spring" height="20" width="80" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-<img align="center" alt="Spring" height="20" width="80" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
-<img align="center" alt="Spring" height="20" width="80" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
-<img align="center" alt="Spring" height="20" width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img align="center" alt="Spring" height="20" width="80" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
-<img align="center" alt="Spring" height="20" width="80" src="https://camo.githubusercontent.com/2f13988552b7ae81484bb9f4003357f3b3fc8c2043171d531d7e08b51b6eb641/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c">
+<img align="center" alt="Spring" height="20" width="83" src="https://camo.githubusercontent.com/be95e40b73b295d5a020730d3c0adcce5906cf4d5fd2c6d8e523310f8414094c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e67253230426f6f742d3333333333333f7374796c653d666c6174266c6f676f3d737072696e67626f6f74">
+<img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+<img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
+<img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
+<img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
+<img align="center" alt="Spring" height="20" width="83" src="https://camo.githubusercontent.com/2f13988552b7ae81484bb9f4003357f3b3fc8c2043171d531d7e08b51b6eb641/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333333333333f7374796c653d666c6174266c6f676f3d706f737467726573716c">
 </div><br/>
 
 **DevOps**
 <div style="display: inline_block">
-<img align="center" alt="Spring" height="20" width="75" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img align="center" alt="Spring" height="20" width="75" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img align="center" alt="Spring" height="20" width="75" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+<img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="Spring" height="20" width="83" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </div><br/>
   
   	
